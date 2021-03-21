@@ -1,4 +1,4 @@
-# Github Cards App
+# Star Wars API Project
 
 React Project to show star wars universe characters and starships with details.
 
