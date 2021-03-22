@@ -26,4 +26,8 @@ Navigate the site through navbar and learn more about star wars universe.
 
 ## What the app looks like
 
-![alt text]()
+![alt text](https://github.com/cengizhankose/star-wars-api/blob/master/Screenshot%202021-03-22%20094047.png)
+![alt text](https://github.com/cengizhankose/star-wars-api/blob/master/Screenshot%202021-03-22%20094112.png)
+![alt text](https://github.com/cengizhankose/star-wars-api/blob/master/Screenshot%202021-03-22%20094207.png)
+![alt text](https://github.com/cengizhankose/star-wars-api/blob/master/Screenshot%202021-03-22%20094204.png)
+![alt text](https://github.com/cengizhankose/star-wars-api/blob/master/Screenshot%202021-03-22%20094154.png)
