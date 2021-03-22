@@ -17,7 +17,7 @@ const Starships = () => {
   console.log(starships);
   console.log("====================================");
   return (
-    <div>
+    <div className="starships-page-container">
       {starships.map((starship, index) => (
         <h1 key={index}>
           <Link
@@ -30,6 +30,8 @@ const Starships = () => {
           </Link>
         </h1>
       ))}
+      <button>Next</button>
+      <button>Previous</button>
     </div>
   );
 };

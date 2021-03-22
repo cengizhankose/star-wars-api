@@ -18,7 +18,7 @@ const PersonDetail = (props) => {
   console.log(person);
   console.log("====================================");
   return (
-    <div>
+    <div className="person-page-container">
       {person.detail ? (
         <h1>{person.detail}</h1>
       ) : (

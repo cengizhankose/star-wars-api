@@ -18,7 +18,7 @@ const StarshipsDetail = (props) => {
   console.log(starship);
   console.log("====================================");
   return (
-    <div>
+    <div className="starship-detail-page-container">
       {starship.detail ? (
         <h1>{starship.detail}</h1>
       ) : (
